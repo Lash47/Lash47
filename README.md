@@ -101,7 +101,7 @@ Web-based platform for managing student records, registrations, and database ope
 
 ## 🔗 Let's Connect!
 
-**Portfolio:** https://ashish-portfolio.netlify.app
+**Portfolio:**  https://ashish-portifilio.netlify.app/
 
 **LinkedIn:** https://linkedin.com/in/ashish-kommula-4o7
 
