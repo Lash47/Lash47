@@ -39,7 +39,7 @@ Automated financial assessment tool that determines loan eligibility based on us
 
 ---
 
-### 4. [Student Management System](https://github.com/Lash47/student-management-system)
+### 4. [Student Management System](https://github.com/Lash47/springboot-rest-api))
 Web-based platform for managing student records, registrations, and database operations securely.
 
 **Tech Stack:** J2EE | JSP | JDBC | MySQL
